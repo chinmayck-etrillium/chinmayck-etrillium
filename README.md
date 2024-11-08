@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a web developer with a strong foundation in PERN,MERN Stack. I Love learning and exploring new technologies!
+I'm a web developer with a strong foundation in PERN, MERN Stack. I Love learning and exploring new technologies!
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [chinmayck24@gmail.com](mailto:chinmayck24@gmail.com)
